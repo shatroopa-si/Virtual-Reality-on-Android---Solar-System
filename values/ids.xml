@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Views-->
+    <item name="fullPackage" type="id"/>
+
+    <item name="monocularVision" type="id"/>
+    <item name="fullView" type="id"/>
+
+    <!--Button-->
+    <item name="toggle" type="id"/>
+    <item name="info" type="id"/>
+</resources>
